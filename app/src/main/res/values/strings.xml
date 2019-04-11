@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HWAS_01(1)</string>
+    <string name="action_settings">Settings</string>
+    <string name="changecontact">Zmień kontakt</string>
+    <string name="changesound">Zmień dźwięk</string>
+    <string name="placeholder">Place Holder</string>
+    <string name="Sound1">Sound no.1</string>
+    <string name="Sound2">Sound no.2</string>
+    <string name="Sound3">Sound no.3</string>
+    <string name="Sound4">Sound no.4</string>
+    <string name="Sound5">Sound no.5</string>
+    <string name="Sound6">Sound no.6</string>
+    <string name="Sounds">Dźwięki</string>
+    <string name="set_sound">Ustaw dźwięk kontaktu</string>
+    <string name="set_contact">Wybierz kontakt</string>
+    <string name="contacts_text">Kontakty</string>
+    <string-array name="Contacts">
+        <item>Adam Samorzewski</item>
+        <item>Jan Kowalski</item>
+        <item>Derrick Rose</item>
+    </string-array >
+    <string name="back_message">#BACK_MESSAGE</string>
+</resources>
